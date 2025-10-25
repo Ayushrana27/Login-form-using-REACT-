@@ -1,0 +1,4 @@
+npm create vite@latest my-login-app --template react
+cd my-login-app
+npm install
+npm run dev
